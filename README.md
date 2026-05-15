@@ -23,12 +23,17 @@ Persistent Login Session
 
 ###🛠 Tech Stack
 
-
 Flutter
+
 Dart
+
 Firebase Authentication
+
 Flutter Bloc
+
 ScreenUtil
+
 Shared Preferences
 
 ####
+  
